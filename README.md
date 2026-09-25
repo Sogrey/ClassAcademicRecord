@@ -1,14 +1,3 @@
----
-AIGC:
-  ContentProducer: '001191110102MAD55U9H0F10002'
-  ContentPropagator: '001191110102MAD55U9H0F10002'
-  Label: '1'
-  ProduceID: '8c1cf66f-d8a4-4463-837a-3c8ec85429eb'
-  PropagateID: '8c1cf66f-d8a4-4463-837a-3c8ec85429eb'
-  ReservedCode1: '2c82ec13-5f57-4479-85d9-cd736e2b1757'
-  ReservedCode2: '2c82ec13-5f57-4479-85d9-cd736e2b1757'
----
-
 # 班级综合管理系统 (Class Academic Record)
 
 基于 Vue 3 重构的班级综合管理分析系统，原系统为 Excel + VBA 实现（v1.71）。
@@ -68,5 +57,3 @@ pnpm run build    # 类型检查 + 生产构建
 pnpm run preview  # 预览生产构建
 pnpm run lint     # 代码检查
 ```
-
-> AI生成
